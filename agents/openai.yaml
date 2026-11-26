@@ -1,0 +1,4 @@
+interface:
+  display_name: "VMD Structure Atlas"
+  short_description: "Render protein–ligand views and PDF atlases"
+  default_prompt: "Use $vmd-structure-atlas to render these structures as a review PDF."
